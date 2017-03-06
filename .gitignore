@@ -1,0 +1,5 @@
+/nbproject/private/
+/runtime/*
+/application/database.php
+/application/redis.php
+/application/config.php
